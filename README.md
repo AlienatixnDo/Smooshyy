@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Smooshyy
+- 👀 I’m interested in learning more about programming in order to persue my dream of becomming a software engineer
+- 🌱 I’m currently learning Python
+- 🔨 Currently Builing an automated login system which notifies me whenever I login and logs my login's
+- 📫 How to reach me - Email: brandet251@gmail.com
