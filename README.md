@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Smooshyy
+- 👋 Hi, I’m @AlienatixnDo
 - 👀 I’m interested in learning more about programming in order to persue my dream of becomming a software engineer
 - 🌱 I’m currently learning Python
 - 🔨 Currently Builing website and online store for my new brand, launching in July 2022
